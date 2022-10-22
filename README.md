@@ -33,3 +33,9 @@
 [NetCAT: Practical Cache Attacks from the Network](https://download.vusec.net/papers/netcat_sp20.pdf)
 
 [LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152763)
+
+## Documentation
+
+[Agner Fog's Instruction Tables](https://www.agner.org/optimize/instruction_tables.pdf)
+
+[WikiChip](https://en.wikichip.org/wiki/intel)
